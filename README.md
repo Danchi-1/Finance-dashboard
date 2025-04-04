@@ -34,4 +34,4 @@ Backend: Fastapi.py
 
 Database: SQLite
 
-Styling: Tailwind CSS
+Styling: CSS
